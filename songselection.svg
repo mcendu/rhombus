@@ -7,42 +7,42 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
-   inkscape:export-filename="menu-button-background@2x.png"
-   sodipodi:docname="songselection.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   width="1400"
-   height="170"
-   viewBox="0 0 1400 170"
+   id="SVGRoot"
    version="1.1"
-   id="SVGRoot">
+   viewBox="0 0 1400 170"
+   height="170"
+   width="1400"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="songselection.svg"
+   inkscape:export-filename="menu-button-background@2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs847" />
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     showgrid="true"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="85"
-     inkscape:cx="330.50627"
-     inkscape:zoom="1"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="700"
+     inkscape:cy="85"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
     <inkscape:grid
-       spacingy="2"
-       spacingx="2"
+       id="grid1417"
        type="xygrid"
-       id="grid1417" />
+       spacingx="2"
+       spacingy="2" />
   </sodipodi:namedview>
   <metadata
      id="metadata850">
@@ -52,25 +52,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <rect
-       y="0"
-       x="18"
-       height="170"
-       width="1382"
+       style="fill:#333333;stroke:#00ff00;stroke-width:3.77953;stroke-linejoin:round;stroke-opacity:0"
        id="rect1424"
-       style="fill:#000000;stroke:#00ff00;stroke-width:3.77953;stroke-linejoin:round;stroke-opacity:0" />
+       width="1382"
+       height="170"
+       x="18"
+       y="0" />
     <path
-       sodipodi:nodetypes="cccccc"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 18,0 V 170 H 643 L 558,85 643,0 Z"
        id="path1426"
-       d="M 18,0 V 170 H 348 L 263,85 348,0 Z"
-       style="fill:#2f2f2f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
