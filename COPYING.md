@@ -4,8 +4,10 @@ Licensed under [CC BY-NC 4.0 Universal][CC-BY-NC-4.0].
 ## Graphics
 
 All graphics files, in either vector (source) or raster (binary) forms, are
-also distributed under the terms of [CC0 1.0 Universal][CC0], in addition to
-the above license.
+distributed under the terms of [CC0 1.0 Universal][CC0], effectively making
+them public domain.
+
+_osu!_ and the osu! cookie are trademarks of ppy Pty Ltd.
 
 ## Fonts
 
