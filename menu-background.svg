@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="48"
+   inkscape:export-xdpi="48"
+   inkscape:export-filename="menu-background@2x.png"
+   sodipodi:docname="menu-background.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="2732px"
+   height="1536px"
+   viewBox="0 0 2732 1536"
+   version="1.1"
+   id="SVGRoot">
+  <defs
+     id="defs833">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2501">
+      <path
+         d="M 0,350 H 350 V 0 H 0 Z"
+         id="path2499" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     showguides="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer3"
+     inkscape:document-units="px"
+     inkscape:cy="768"
+     inkscape:cx="1366"
+     inkscape:zoom="0.42532943"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       originy="768"
+       originx="1366"
+       empspacing="8"
+       spacingy="16"
+       spacingx="16"
+       id="grid1409"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       y="0"
+       x="0"
+       height="1536"
+       width="2732"
+       id="rect1407"
+       style="paint-order:stroke fill markers;fill:#1a1a1a;fill-opacity:1;stroke-width:1.0015748;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:tile-y0="0"
+       inkscape:tile-x0="-42"
+       inkscape:tile-h="128"
+       inkscape:tile-w="128"
+       inkscape:tile-cy="64"
+       inkscape:tile-cx="22"
+       d="M -42,80 6,128 H -42 Z M -42,0 H 6 L -42,48 Z M 38,0 86,48 V 0 Z M 70,64 22,112 -26,64 22,16 Z m 16,16 -48,48 h 48 z"
+       style="fill:#262626;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       id="path1419" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1950"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1952"
+       transform="translate(0,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       transform="translate(0,256)"
+       id="use1954"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1956"
+       transform="translate(0,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1958"
+       transform="translate(0,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1960"
+       transform="translate(0,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1962"
+       transform="translate(0,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1964"
+       transform="translate(0,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1966"
+       transform="translate(0,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1968"
+       transform="translate(0,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1970"
+       transform="translate(0,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1972"
+       transform="translate(0,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1974"
+       transform="translate(128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1976"
+       transform="translate(128,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1978"
+       transform="translate(128,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1980"
+       transform="translate(128,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1982"
+       transform="translate(128,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1984"
+       transform="translate(128,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1986"
+       transform="translate(128,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1988"
+       transform="translate(128,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1990"
+       transform="translate(128,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1992"
+       transform="translate(128,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1994"
+       transform="translate(128,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1996"
+       transform="translate(128,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use1998"
+       transform="translate(256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2000"
+       transform="translate(256,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2002"
+       transform="translate(256,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2004"
+       transform="translate(256,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2006"
+       transform="translate(256,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2008"
+       transform="translate(256,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2010"
+       transform="translate(256,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2012"
+       transform="translate(256,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2014"
+       transform="translate(256,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2016"
+       transform="translate(256,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2018"
+       transform="translate(256,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2020"
+       transform="translate(256,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2022"
+       transform="translate(384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2024"
+       transform="translate(384,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2026"
+       transform="translate(384,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2028"
+       transform="translate(384,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2030"
+       transform="translate(384,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2032"
+       transform="translate(384,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2034"
+       transform="translate(384,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2036"
+       transform="translate(384,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2038"
+       transform="translate(384,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2040"
+       transform="translate(384,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2042"
+       transform="translate(384,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2044"
+       transform="translate(384,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2046"
+       transform="translate(512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2048"
+       transform="translate(512,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2050"
+       transform="translate(512,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2052"
+       transform="translate(512,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2054"
+       transform="translate(512,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2056"
+       transform="translate(512,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2058"
+       transform="translate(512,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2060"
+       transform="translate(512,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2062"
+       transform="translate(512,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2064"
+       transform="translate(512,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2066"
+       transform="translate(512,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2068"
+       transform="translate(512,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2070"
+       transform="translate(640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2072"
+       transform="translate(640,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2074"
+       transform="translate(640,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2076"
+       transform="translate(640,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2078"
+       transform="translate(640,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2080"
+       transform="translate(640,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2082"
+       transform="translate(640,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2084"
+       transform="translate(640,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2086"
+       transform="translate(640,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2088"
+       transform="translate(640,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2090"
+       transform="translate(640,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2092"
+       transform="translate(640,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2094"
+       transform="translate(768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2096"
+       transform="translate(768,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2098"
+       transform="translate(768,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2100"
+       transform="translate(768,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2102"
+       transform="translate(768,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2104"
+       transform="translate(768,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2106"
+       transform="translate(768,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2108"
+       transform="translate(768,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2110"
+       transform="translate(768,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2112"
+       transform="translate(768,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2114"
+       transform="translate(768,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2116"
+       transform="translate(768,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2118"
+       transform="translate(896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2120"
+       transform="translate(896,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2122"
+       transform="translate(896,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2124"
+       transform="translate(896,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2126"
+       transform="translate(896,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2128"
+       transform="translate(896,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2130"
+       transform="translate(896,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2132"
+       transform="translate(896,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2134"
+       transform="translate(896,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2136"
+       transform="translate(896,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2138"
+       transform="translate(896,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2140"
+       transform="translate(896,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2142"
+       transform="translate(1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2144"
+       transform="translate(1024,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2146"
+       transform="translate(1024,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2148"
+       transform="translate(1024,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2150"
+       transform="translate(1024,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2152"
+       transform="translate(1024,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2154"
+       transform="translate(1024,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2156"
+       transform="translate(1024,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2158"
+       transform="translate(1024,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2160"
+       transform="translate(1024,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2162"
+       transform="translate(1024,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2164"
+       transform="translate(1024,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2166"
+       transform="translate(1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2168"
+       transform="translate(1152,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2170"
+       transform="translate(1152,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2172"
+       transform="translate(1152,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2174"
+       transform="translate(1152,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2176"
+       transform="translate(1152,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2178"
+       transform="translate(1152,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2180"
+       transform="translate(1152,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2182"
+       transform="translate(1152,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2184"
+       transform="translate(1152,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2186"
+       transform="translate(1152,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2188"
+       transform="translate(1152,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2190"
+       transform="translate(1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2192"
+       transform="translate(1280,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2194"
+       transform="translate(1280,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2196"
+       transform="translate(1280,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2198"
+       transform="translate(1280,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2200"
+       transform="translate(1280,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2202"
+       transform="translate(1280,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2204"
+       transform="translate(1280,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2206"
+       transform="translate(1280,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2208"
+       transform="translate(1280,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2210"
+       transform="translate(1280,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2212"
+       transform="translate(1280,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2214"
+       transform="translate(1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2216"
+       transform="translate(1408,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2218"
+       transform="translate(1408,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2220"
+       transform="translate(1408,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2222"
+       transform="translate(1408,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2224"
+       transform="translate(1408,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2226"
+       transform="translate(1408,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2228"
+       transform="translate(1408,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2230"
+       transform="translate(1408,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2232"
+       transform="translate(1408,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2234"
+       transform="translate(1408,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2236"
+       transform="translate(1408,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2238"
+       transform="translate(1536)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2240"
+       transform="translate(1536,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2242"
+       transform="translate(1536,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2244"
+       transform="translate(1536,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2246"
+       transform="translate(1536,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2248"
+       transform="translate(1536,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2250"
+       transform="translate(1536,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2252"
+       transform="translate(1536,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2254"
+       transform="translate(1536,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2256"
+       transform="translate(1536,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2258"
+       transform="translate(1536,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2260"
+       transform="translate(1536,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2262"
+       transform="translate(1664)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2264"
+       transform="translate(1664,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2266"
+       transform="translate(1664,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2268"
+       transform="translate(1664,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2270"
+       transform="translate(1664,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2272"
+       transform="translate(1664,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2274"
+       transform="translate(1664,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2276"
+       transform="translate(1664,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2278"
+       transform="translate(1664,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2280"
+       transform="translate(1664,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2282"
+       transform="translate(1664,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2284"
+       transform="translate(1664,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2286"
+       transform="translate(1792)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2288"
+       transform="translate(1792,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2290"
+       transform="translate(1792,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2292"
+       transform="translate(1792,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2294"
+       transform="translate(1792,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2296"
+       transform="translate(1792,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2298"
+       transform="translate(1792,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2300"
+       transform="translate(1792,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2302"
+       transform="translate(1792,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2304"
+       transform="translate(1792,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2306"
+       transform="translate(1792,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       height="100%"
+       width="100%"
+       id="use2308"
+       transform="translate(1792,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2310"
+       transform="translate(1920)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2312"
+       transform="translate(1920,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2314"
+       transform="translate(1920,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2316"
+       transform="translate(1920,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2318"
+       transform="translate(1920,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2320"
+       transform="translate(1920,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2322"
+       transform="translate(1920,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2324"
+       transform="translate(1920,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2326"
+       transform="translate(1920,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2328"
+       transform="translate(1920,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2330"
+       transform="translate(1920,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2332"
+       transform="translate(1920,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2334"
+       transform="translate(2048)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2336"
+       transform="translate(2048,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2338"
+       transform="translate(2048,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2340"
+       transform="translate(2048,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2342"
+       transform="translate(2048,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2344"
+       transform="translate(2048,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2346"
+       transform="translate(2048,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2348"
+       transform="translate(2048,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2350"
+       transform="translate(2048,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2352"
+       transform="translate(2048,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2354"
+       transform="translate(2048,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2356"
+       transform="translate(2048,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2358"
+       transform="translate(2176)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2360"
+       transform="translate(2176,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2362"
+       transform="translate(2176,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2364"
+       transform="translate(2176,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2366"
+       transform="translate(2176,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2368"
+       transform="translate(2176,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2370"
+       transform="translate(2176,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2372"
+       transform="translate(2176,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2374"
+       transform="translate(2176,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2376"
+       transform="translate(2176,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2378"
+       transform="translate(2176,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2380"
+       transform="translate(2176,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2382"
+       transform="translate(2304)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2384"
+       transform="translate(2304,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2386"
+       transform="translate(2304,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2388"
+       transform="translate(2304,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2390"
+       transform="translate(2304,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2392"
+       transform="translate(2304,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2394"
+       transform="translate(2304,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2396"
+       transform="translate(2304,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2398"
+       transform="translate(2304,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2400"
+       transform="translate(2304,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2402"
+       transform="translate(2304,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2404"
+       transform="translate(2304,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2406"
+       transform="translate(2432)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2408"
+       transform="translate(2432,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2410"
+       transform="translate(2432,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2412"
+       transform="translate(2432,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2414"
+       transform="translate(2432,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2416"
+       transform="translate(2432,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2418"
+       transform="translate(2432,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2420"
+       transform="translate(2432,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2422"
+       transform="translate(2432,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2424"
+       transform="translate(2432,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2426"
+       transform="translate(2432,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2428"
+       transform="translate(2432,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2430"
+       transform="translate(2560)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2432"
+       transform="translate(2560,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2434"
+       transform="translate(2560,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2436"
+       transform="translate(2560,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2438"
+       transform="translate(2560,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2440"
+       transform="translate(2560,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2442"
+       transform="translate(2560,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2444"
+       transform="translate(2560,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2446"
+       transform="translate(2560,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2448"
+       transform="translate(2560,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2450"
+       transform="translate(2560,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2452"
+       transform="translate(2560,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2454"
+       transform="translate(2688)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2456"
+       transform="translate(2688,128)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2458"
+       transform="translate(2688,256)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2460"
+       transform="translate(2688,384)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2462"
+       transform="translate(2688,512)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2464"
+       transform="translate(2688,640)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2466"
+       transform="translate(2688,768)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2468"
+       transform="translate(2688,896)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2470"
+       transform="translate(2688,1024)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2472"
+       transform="translate(2688,1152)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2474"
+       transform="translate(2688,1280)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+    <use
+       style="fill:#262626;fill-opacity:1"
+       id="use2476"
+       transform="translate(2688,1408)"
+       xlink:href="#path1419"
+       inkscape:tiled-clone-of="#path1419"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:label="fg"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <path
+       id="path2478"
+       d="m 1366,128 -640,640 640,640 640,-640 z"
+       style="fill:none;stroke:#e6e6e6;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       style="fill:#e6e6e6"
+       id="g2497"
+       clip-path="url(#clipPath2501)"
+       transform="matrix(0.66666665,0,0,-0.66666665,1249.334,884.66666)">
+      <g
+         style="fill:#e6e6e6"
+         id="g2503"
+         transform="translate(256.6572,225.6035)">
+        <path
+           d="m 0,0 c 2.917,0.449 5.796,0.673 8.64,0.673 2.918,0 5.835,-0.224 8.753,-0.673 l -1.122,-54.87 c -2.621,-0.448 -5.125,-0.673 -7.519,-0.673 -2.544,0 -5.088,0.225 -7.63,0.673 z m 0.449,-80.678 c -0.449,2.767 -0.674,5.498 -0.674,8.192 0,2.692 0.225,5.459 0.674,8.303 2.767,0.449 5.498,0.673 8.191,0.673 2.693,0 5.46,-0.224 8.303,-0.673 0.45,-2.844 0.673,-5.574 0.673,-8.191 0,-2.769 -0.223,-5.537 -0.673,-8.304 -2.843,-0.449 -5.573,-0.673 -8.191,-0.673 -2.769,0 -5.536,0.224 -8.303,0.673 m -65.866,58.012 c 2.693,0.449 5.348,0.673 7.967,0.673 2.617,0 5.273,-0.224 7.967,-0.673 v -30.745 c 0,-3.068 0.242,-5.593 0.729,-7.574 0.485,-1.983 1.234,-3.554 2.244,-4.713 1.01,-1.16 2.262,-1.983 3.759,-2.468 1.496,-0.488 3.254,-0.73 5.273,-0.73 2.768,0 5.087,0.261 6.957,0.786 v 45.444 c 2.694,0.449 5.311,0.673 7.855,0.673 2.618,0 5.274,-0.224 7.967,-0.673 v -55.768 c -2.395,-0.824 -5.554,-1.627 -9.482,-2.412 -3.926,-0.786 -8.022,-1.178 -12.286,-1.178 -3.815,0 -7.481,0.299 -10.997,0.897 -3.516,0.599 -6.602,1.869 -9.257,3.815 -2.656,1.945 -4.768,4.787 -6.34,8.529 -1.571,3.739 -2.356,8.713 -2.356,14.923 z m -39.384,-32.765 c -4.19,1.196 -7.462,2.974 -9.818,5.329 -2.357,2.358 -3.534,5.892 -3.534,10.605 0,5.684 2.037,10.135 6.115,13.352 4.076,3.216 9.631,4.826 16.662,4.826 2.918,0 5.797,-0.264 8.641,-0.786 2.841,-0.524 5.722,-1.31 8.639,-2.356 -0.15,-1.946 -0.523,-3.966 -1.121,-6.06 -0.599,-2.095 -1.31,-3.927 -2.133,-5.498 -1.796,0.747 -3.778,1.403 -5.946,1.964 -2.171,0.561 -4.452,0.842 -6.846,0.842 -2.543,0 -4.526,-0.393 -5.947,-1.179 -1.422,-0.785 -2.131,-2.039 -2.131,-3.759 0,-1.646 0.504,-2.805 1.514,-3.478 1.011,-0.673 2.449,-1.31 4.32,-1.908 l 6.397,-1.907 c 2.093,-0.6 3.983,-1.329 5.666,-2.189 1.683,-0.86 3.123,-1.926 4.32,-3.197 1.196,-1.274 2.132,-2.844 2.806,-4.713 0.672,-1.871 1.009,-4.151 1.009,-6.845 0,-2.768 -0.58,-5.349 -1.74,-7.742 -1.16,-2.395 -2.843,-4.471 -5.049,-6.227 -2.207,-1.759 -4.88,-3.143 -8.022,-4.153 -3.143,-1.01 -6.695,-1.514 -10.66,-1.514 -1.795,0 -3.442,0.056 -4.938,0.169 -1.497,0.111 -2.936,0.299 -4.32,0.56 -1.385,0.263 -2.748,0.58 -4.096,0.954 -1.345,0.373 -2.804,0.859 -4.375,1.458 0.149,2.021 0.504,4.058 1.066,6.116 0.561,2.056 1.29,4.057 2.188,6.003 2.469,-0.973 4.805,-1.702 7.013,-2.188 2.206,-0.487 4.506,-0.73 6.901,-0.73 1.047,0 2.188,0.094 3.422,0.282 1.235,0.185 2.374,0.522 3.422,1.009 1.047,0.486 1.926,1.122 2.637,1.908 0.711,0.785 1.066,1.812 1.066,3.086 0,1.794 -0.543,3.085 -1.627,3.871 -1.085,0.785 -2.599,1.476 -4.545,2.076 z m -51.727,-14.474 c 4.189,0 7.199,1.551 9.033,4.656 1.832,3.103 2.749,7.574 2.749,13.409 0,5.835 -0.917,10.304 -2.749,13.409 -1.834,3.103 -4.844,4.657 -9.033,4.657 -4.115,0 -7.088,-1.554 -8.92,-4.657 -1.834,-3.105 -2.749,-7.574 -2.749,-13.409 0,-5.835 0.915,-10.306 2.749,-13.409 1.832,-3.105 4.805,-4.656 8.92,-4.656 m 0,-12.119 c -4.713,0 -8.808,0.768 -12.286,2.3 -3.479,1.533 -6.36,3.664 -8.64,6.396 -2.283,2.729 -4.004,5.928 -5.162,9.594 -1.16,3.664 -1.739,7.63 -1.739,11.894 0,4.264 0.579,8.265 1.739,12.006 1.158,3.74 2.879,6.975 5.162,9.706 2.28,2.73 5.161,4.881 8.64,6.452 3.478,1.571 7.573,2.357 12.286,2.357 4.713,0 8.826,-0.786 12.343,-2.357 3.516,-1.571 6.433,-3.722 8.752,-6.452 2.319,-2.731 4.039,-5.966 5.162,-9.706 1.122,-3.741 1.683,-7.742 1.683,-12.006 0,-4.264 -0.561,-8.23 -1.683,-11.894 -1.123,-3.666 -2.843,-6.865 -5.162,-9.594 -2.319,-2.732 -5.236,-4.863 -8.752,-6.396 -3.517,-1.532 -7.63,-2.3 -12.343,-2.3"
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2505" />
+      </g>
+      <g
+         style="fill:#e6e6e6"
+         id="g2507"
+         transform="translate(174.999,40)">
+        <path
+           d="M 0,0 C -74.559,0 -135,60.442 -135,134.999 -135,209.559 -74.559,270 0,270 74.559,270 135,209.559 135,134.999 135,60.442 74.559,0 0,0 M 0,285 C -82.843,285 -150,217.843 -150,134.999 -150,52.158 -82.843,-15 0,-15 82.844,-15 150,52.158 150,134.999 150,217.843 82.844,285 0,285"
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path2509" />
+      </g>
+    </g>
+  </g>
+</svg>
