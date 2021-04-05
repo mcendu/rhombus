@@ -5,7 +5,7 @@ Licensed under [CC BY-NC 4.0 Universal][CC-BY-NC-4.0].
 
 All graphics files, in either vector (source) or raster (binary) forms, are
 distributed under the terms of [CC0 1.0 Universal][CC0], effectively making
-them public domain.
+them public domain, unless otherwise specified.
 
 _osu!_ and the osu! cookie are trademarks of ppy Pty Ltd.
 
