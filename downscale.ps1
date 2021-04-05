@@ -1,4 +1,5 @@
 # Mass downscale HD osu! skin files to SD in the current directory.
+# Licensed under CC0.
 
 foreach ($_ in (ls -Filter "*@2x.png")) {
     $downscaledFileName = ($_.Name.Substring(0, $_.Name.IndexOf("@"))+".png")
