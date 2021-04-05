@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="96"
-   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="192"
+   inkscape:export-xdpi="192"
    inkscape:export-filename="hit50@2x.png"
    sodipodi:docname="icon-std50.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
@@ -21,8 +21,8 @@
      id="defs1673" />
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="2"
-     inkscape:window-x="202"
+     inkscape:window-y="12"
+     inkscape:window-x="301"
      inkscape:window-height="1040"
      inkscape:window-width="1274"
      showgrid="true"
@@ -63,7 +63,7 @@
      inkscape:label="Layer 1">
     <path
        d="M 56,80 V 16 H 72 V 80 Z M 72,96 H 56 v 16 h 16 z"
-       style="fill:#ffcc22;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#ffcc21;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        id="path2259" />
   </g>
 </svg>

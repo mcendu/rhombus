@@ -9,8 +9,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="192"
    inkscape:export-xdpi="192"
-   inkscape:export-filename="mania-hit50@2x.png"
-   sodipodi:docname="icon-mania50.svg"
+   inkscape:export-filename="hit300g@2x.png"
+   sodipodi:docname="icon-std300g.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    width="128.0px"
    height="128.0px"
@@ -21,8 +21,8 @@
      id="defs1673" />
   <sodipodi:namedview
      inkscape:window-maximized="0"
-     inkscape:window-y="12"
-     inkscape:window-x="301"
+     inkscape:window-y="35"
+     inkscape:window-x="269"
      inkscape:window-height="1040"
      inkscape:window-width="1274"
      showgrid="true"
@@ -31,7 +31,7 @@
      inkscape:document-units="px"
      inkscape:cy="64"
      inkscape:cx="64"
-     inkscape:zoom="5.390625"
+     inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,8 +62,9 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <path
-       d="M 56,80 V 16 H 72 V 80 Z M 72,96 H 56 v 16 h 16 z"
-       style="fill:#ff8800;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       id="path2259" />
+       sodipodi:nodetypes="cccccccccc"
+       d="M 64,40 88,64 64,88 40,64 Z m 0,-16 -40,40 40,40 40,-40 z"
+       style="fill:#66ccff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2252" />
   </g>
 </svg>
