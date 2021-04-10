@@ -3,6 +3,7 @@ if (!(Test-Path publish)) {
 }
 
 cp ./* -Filter "*.png" -Destination publish/
+cp ./* -Filter "*.jpg" -Destination publish/
 cp ./* -Filter "*.wav" -Destination publish/
 cp ./* -Filter "*.mp3" -Destination publish/
 cp "skin.ini" publish/
