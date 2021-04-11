@@ -1,11 +1,20 @@
-if (!(Test-Path publish)) {
-    mkdir publish
+function Publish-ChildItem {
+    param (
+        $Path
+    )
+    Copy-Item ($Path + "/*") -Filter "*.png" -Destination publish/
+    Copy-Item ($Path + "/*") -Filter "*.jpg" -Destination publish/
+    Copy-Item ($Path + "/*") -Filter "*.wav" -Destination publish/
+    Copy-Item ($Path + "/*") -Filter "*.mp3" -Destination publish/
 }
 
-cp ./* -Filter "*.png" -Destination publish/
-cp ./* -Filter "*.jpg" -Destination publish/
-cp ./* -Filter "*.wav" -Destination publish/
-cp ./* -Filter "*.mp3" -Destination publish/
-cp "skin.ini" publish/
-cp "COPYING.md" publish/
-cp "COPYING.OFL" publish/
+if (!(Test-Path publish)) {
+    mkdir publish | Out-Null
+}
+
+Publish-ChildItem .
+Publish-ChildItem ./taiko
+
+Copy-Item "skin.ini" publish/
+Copy-Item "COPYING.md" publish/
+Copy-Item "COPYING.OFL" publish/
